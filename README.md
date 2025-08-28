@@ -30,3 +30,8 @@
 ---
 
 <p align="center">✨ Mening profilimga tashrif buyurganingiz uchun rahmat ✨</p>
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47zgvaqz03cae4ugawpvo0ghsc4v2cq4u4zwd40ta&rid=giphy.gif&ct=s" width="300"/>
+</p>
+
